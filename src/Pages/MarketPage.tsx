@@ -5,8 +5,8 @@ import PageLayout from "../components/PageLayout";
 import {
   MdAdd, MdSearch, MdEdit, MdDelete, MdClose,
   MdStorefront, MdFilterList, MdWarning,
-  MdCheckCircle, MdPause, MdTrendingUp,
-  MdAttachMoney, MdStar, MdStarBorder,
+  MdCheckCircle, MdPause, 
+  MdStar, MdStarBorder,
 } from "react-icons/md";
 import { FaAppleAlt, FaCarrot, FaLeaf, FaTruck } from "react-icons/fa";
 import { GiStrawberry, GiGrapes, GiBanana, GiOrange } from "react-icons/gi";

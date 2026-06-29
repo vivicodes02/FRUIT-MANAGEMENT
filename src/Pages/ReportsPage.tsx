@@ -13,7 +13,6 @@ import {
   MdCalendarToday, MdArrowUpward, MdArrowDownward,
   MdCheckCircle, MdWarning, MdBarChart,
 } from "react-icons/md";
-import { FaAppleAlt, FaCarrot } from "react-icons/fa";
 
 /* ────────────────────────────────────────────────────
    TYPES
@@ -193,7 +192,6 @@ export default function ReportsPage() {
     ? "bg-gray-700 border-gray-600 text-white placeholder-gray-500"
     : "bg-orange-50 border-orange-200 text-gray-700 placeholder-gray-400";
   const rowHov  = darkMode ? "hover:bg-gray-700" : "hover:bg-orange-50/40";
-  const skelBg  = darkMode ? "bg-gray-700"       : "bg-orange-50";
   const thStyle = `text-xs uppercase tracking-wide font-semibold py-3 px-4 ${subText}`;
   const tdStyle = `py-3 px-4 text-sm ${text}`;
 
