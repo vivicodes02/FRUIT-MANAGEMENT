@@ -74,7 +74,7 @@ export default function LoginPage() {
           <div className="relative z-10 w-full max-w-sm">
             {/* Heading */}
             <div className="mb-8 text-center">
-              <h1 className="text-3xl sm:text-4xl font-bold bg-gradient-to-r from-black via-orange-600 to-orange-500 bg-clip-text text-transparent leading-tight">
+              <h1 className="text-2xl sm:text-3xl font-bold bg-gradient-to-r from-black via-orange-600 to-orange-500 bg-clip-text text-transparent leading-tight">
                 FRUITS AND VEGETABLES <br /> MANAGEMENT SYSTEM
               </h1>
             </div>
