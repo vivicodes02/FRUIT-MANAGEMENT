@@ -13,7 +13,7 @@ const summaryCards = [
   { id: "sales",     label: "Total Sales",      value: "1,284",         change: "+8.1%",  up: true,  sub: "orders this month", Icon: MdTrendingUp,  gradient: "from-amber-500 to-yellow-400"  },
   { id: "inventory", label: "Inventory Items",  value: "3,047",         change: "-2.3%",  up: false, sub: "units in stock",    Icon: MdInventory2,  gradient: "from-orange-600 to-red-400"    },
   { id: "market",    label: "Market Listings",  value: "218",           change: "+5.0%",  up: true,  sub: "active listings",   Icon: MdStorefront,  gradient: "from-yellow-500 to-orange-400" },
-  { id: "employees", label: "Employees",        value: "5",             change: "+2",     up: true,  sub: "active staff",      Icon: MdPeople,      gradient: "from-amber-600 to-orange-500"  },
+  { id: "employee", label: "Employees",        value: "5",             change: "+2",     up: true,  sub: "active staff",      Icon: MdPeople,      gradient: "from-amber-600 to-orange-500"  },
 ];
 
 const recentSales = [
